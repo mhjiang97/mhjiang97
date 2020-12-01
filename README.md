@@ -1,5 +1,5 @@
 ### Hi there 👋  
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=mhjiang97&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" />  
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=mhjiang97&show_icons=true&icon_color=32CD32&text_color=FFF5EE&bg_color=808080&hide_title=false" />  
 I'm Minghao Jiang
   
 - 🔭 Currently working on alternative splicing analysis.  
@@ -18,4 +18,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+CE1D2D
+718096
+ffffff
 -->
