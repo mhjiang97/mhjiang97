@@ -1,12 +1,10 @@
 ### Hi there 👋  
-  
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=mhjiang97&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" />  
 I'm Minghao Jiang
   
 - 🔭 Currently working on alternative splicing analysis.  
 
-- 📫 How to reach me: jiangminghao1001@163.com.
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=mhjiang97&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" />  
-
+- 📫 How to reach me: jiangminghao1001@163.com.  
 <!--
 **mhjiang97/mhjiang97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
