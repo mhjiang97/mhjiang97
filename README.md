@@ -5,7 +5,7 @@ I'm Minghao Jiang
 ---
 
 <p align="left">
-  <a href="https://github.com/antonkomarev/github-profile-views-counter" title="GitHub Profile Views Counter"><img src="https://komarev.com/ghpvc/?username=mhjiang97&color=blue&style=flat&label=Visitors" alt="profile views"></a>
+  <a href="https://github.com/antonkomarev/github-profile-views-counter" title="GitHub Profile Views Counter"><img src="https://komarev.com/ghpvc/?username=mhjiang97&color=blue&style=flat&label=PROFILE+VIEWS" alt="profile views"></a>
 </p>
   
 - 🔭 Currently working on alternative splicing analysis.  
