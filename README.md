@@ -8,9 +8,9 @@ I'm Minghao Jiang
   <a href="https://github.com/antonkomarev/github-profile-views-counter" title="GitHub Profile Views Counter"><img src="https://komarev.com/ghpvc/?username=mhjiang97&color=blue&style=flat&label=PROFILE+VIEWS" alt="profile views"></a>
 </p>
   
-- 🔭 Currently working on alternative splicing analysis.  
+- 🔭 Currently working on alternative splicing analysis  
 
-- 📫 How to reach me: jiangminghao1001@163.com.  
+- 📫 How to reach me: jiangminghao1001@163.com  
 <!--
 **mhjiang97/mhjiang97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
