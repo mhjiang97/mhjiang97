@@ -1,9 +1,10 @@
 ### Hi there 👋  
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=mhjiang97&show_icons=true&icon_color=32CD32&text_color=FFF5EE&bg_color=808080&hide_title=false" />  
 
-I'm Minghao Jiang  
+I'm Minghao Jiang. Nice to meet you!  
 
 ---
+
+<img align="lefttop" src="https://github-readme-stats.vercel.app/api?username=mhjiang97&show_icons=true&icon_color=32CD32&text_color=FFF5EE&bg_color=808080&hide_title=false" />  
 
 <p align="left">
   <a href="https://github.com/antonkomarev/github-profile-views-counter" title="GitHub Profile Views Counter"><img src="https://komarev.com/ghpvc/?username=mhjiang97&color=blue&style=flat&label=PROFILE+VIEWS" alt="profile views"></a>
