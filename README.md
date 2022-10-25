@@ -1,7 +1,7 @@
 ### Hi there 👋  
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=mhjiang97&show_icons=true&icon_color=32CD32&text_color=FFF5EE&bg_color=808080&hide_title=false" />  
 
-I'm Minghao Jiang
+I'm Minghao Jiang  
 
 ---
 
@@ -9,7 +9,7 @@ I'm Minghao Jiang
   <a href="https://github.com/antonkomarev/github-profile-views-counter" title="GitHub Profile Views Counter"><img src="https://komarev.com/ghpvc/?username=mhjiang97&color=blue&style=flat&label=PROFILE+VIEWS" alt="profile views"></a>
 </p>
   
-- 🔭 Currently working on alternative splicing, ST analysis  
+- 🔭/🌱 Currently working on/learning alternative splicing, ST analysis  
 
 - 📫 How to reach me: jiangminghao1001@163.com | jiang01@icloud.com  
 
@@ -20,7 +20,7 @@ I'm Minghao Jiang
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
-#- 🌱 I’m currently learning ...
+- 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
