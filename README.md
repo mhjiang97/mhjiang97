@@ -1,6 +1,6 @@
-### Hi there 👋  
+# Hi there 👋  
 
-I'm Minghao Jiang. Nice to meet you!  
+I'm Minghao. Nice to meet you!  
 
 ---
 
@@ -10,9 +10,9 @@ I'm Minghao Jiang. Nice to meet you!
   <a href="https://github.com/antonkomarev/github-profile-views-counter" title="GitHub Profile Views Counter"><img src="https://komarev.com/ghpvc/?username=mhjiang97&color=blue&style=flat&label=PROFILE+VIEWS" alt="profile views"></a>
 </p>
   
-- 🔭/🌱 Currently working on/learning alternative splicing, ST analysis  
+- 🔭/🌱 Currently working on identifying structural variants from ONT data.  
 
-- 📫 How to reach me: jiangminghao1001@163.com | jiang01@icloud.com  
+- 📫 How to reach me: jiang01@icloud.com  
 
 
 <!--
