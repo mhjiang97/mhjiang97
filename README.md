@@ -4,7 +4,7 @@ I'm Minghao. Nice to meet you!
 
 ---
 
-<img align="lefttop" src="https://github-readme-stats.vercel.app/api?username=mhjiang97&show_icons=true&icon_color=32CD32&text_color=FFF5EE&bg_color=808080&hide_title=false" />  
+<img align="lefttop" src="https://github-readme-stats.vercel.app/api?username=mhjiang97&show_icons=true&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5&hide_title=false" />  
 
 <p align="left">
   <a href="https://github.com/antonkomarev/github-profile-views-counter" title="GitHub Profile Views Counter"><img src="https://komarev.com/ghpvc/?username=mhjiang97&color=blue&style=flat&label=PROFILE+VIEWS" alt="profile views"></a>
