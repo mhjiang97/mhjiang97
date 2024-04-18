@@ -1,4 +1,4 @@
-name: Metrics
+name: MJ Metrics
 on:
   # Schedule daily updates
   schedule: [{cron: "0 0 * * *"}]
@@ -13,7 +13,18 @@ jobs:
       name: production
     permissions:
       contents: write
+      pull-requests: write
     steps:
       - uses: lowlighter/metrics@latest
         with:
+          filename: my-metrics-0.svg
+          output_action: pull-request
           token: ${{ secrets.METRICS_TOKEN }}
+          config_timezone: Hongkong
+      - uses: lowlighter/metrics@latest
+        with:
+          filename: my-metrics-1.svg
+          output_action: pull-request-merge
+          token: ${{ secrets.METRICS_TOKEN }}
+          config_timezone: Hongkong
+
