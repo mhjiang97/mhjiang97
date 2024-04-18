@@ -14,7 +14,7 @@ I'm Minghao. Nice to meet you!
 
 - 📫 How to reach me: jiang01@icloud.com  
 
-![Metrics](/my-metrics-1.svg)
+![Metrics](/metrics.svg)
 
 <!--
 **mhjiang97/mhjiang97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
