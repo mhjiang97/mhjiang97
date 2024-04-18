@@ -1,8 +1,6 @@
 # Hi there 👋 <a href="https://github.com/antonkomarev/github-profile-views-counter" title="GitHub Profile Views Counter"><img src="https://komarev.com/ghpvc/?username=mhjiang97&color=blue&style=flat&label=PROFILE+VIEWS" alt="profile views"></a>
 
 I'm Minghao.
-
-<img align="lefttop" src="https://github-readme-stats.vercel.app/api?username=mhjiang97&show_icons=true&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5&hide_title=false" />  
   
 - 🔭 Currently working on identifying structural variants from ONT data.  
 
@@ -10,8 +8,9 @@ I'm Minghao.
 
 ---
 
-<p align="center"><img src="/metrics.svg" alt="Metrics" width="400"></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=mhjiang97&show_icons=true&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5&hide_title=false" /></p>
 
+<p align="center"><img src="/metrics.svg" alt="Metrics" width="400"></p>
 
 <!--
 - 🔭 I’m currently working on ...
