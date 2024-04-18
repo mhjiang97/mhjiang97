@@ -17,14 +17,14 @@ jobs:
     steps:
       - uses: lowlighter/metrics@latest
         with:
-          filename: my-metrics-0.svg
-          output_action: pull-request
-          token: ${{ secrets.METRICS_TOKEN }}
-          config_timezone: Hongkong
-      - uses: lowlighter/metrics@latest
-        with:
           filename: my-metrics-1.svg
           output_action: pull-request-merge
           token: ${{ secrets.METRICS_TOKEN }}
           config_timezone: Hongkong
 
+      # - uses: lowlighter/metrics@latest
+      #   with:
+      #     filename: my-metrics-0.svg
+      #     output_action: pull-request
+      #     token: ${{ secrets.METRICS_TOKEN }}
+      #     config_timezone: Hongkong
