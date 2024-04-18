@@ -1,26 +1,19 @@
-# Hi there 👋  
+# Hi there 👋 <a href="https://github.com/antonkomarev/github-profile-views-counter" title="GitHub Profile Views Counter"><img src="https://komarev.com/ghpvc/?username=mhjiang97&color=blue&style=flat&label=PROFILE+VIEWS" alt="profile views"></a>
 
-I'm Minghao. Nice to meet you!  
-
----
+I'm Minghao.
 
 <img align="lefttop" src="https://github-readme-stats.vercel.app/api?username=mhjiang97&show_icons=true&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5&hide_title=false" />  
-
-<p align="left">
-  <a href="https://github.com/antonkomarev/github-profile-views-counter" title="GitHub Profile Views Counter"><img src="https://komarev.com/ghpvc/?username=mhjiang97&color=blue&style=flat&label=PROFILE+VIEWS" alt="profile views"></a>
-</p>
   
-- 🔭/🌱 Currently working on identifying structural variants from ONT data.  
+- 🔭 Currently working on identifying structural variants from ONT data.  
 
 - 📫 How to reach me: jiang01@icloud.com  
 
-![Metrics](/metrics.svg)
+---
+
+<p align="center"><img src="/metrics.svg" alt="Metrics" width="400"></p>
+
 
 <!--
-**mhjiang97/mhjiang97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -29,7 +22,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-CE1D2D
-718096
-ffffff
 -->
