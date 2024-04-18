@@ -21,6 +21,9 @@ jobs:
           output_action: pull-request-merge
           token: ${{ secrets.METRICS_TOKEN }}
           config_timezone: Hongkong
+          base: ""
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: full-year
 
       # - uses: lowlighter/metrics@latest
       #   with:
