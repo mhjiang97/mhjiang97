@@ -23,19 +23,19 @@ jobs:
           config_timezone: Hongkong
           plugin_isocalendar: yes
           plugin_isocalendar_duration: full-year
-          plugin_topics: yes
-          plugin_topics_mode: icons
-          plugin_topics_limit: 15
           plugin_habits: yes
           plugin_habits_facts: yes
           plugin_habits_charts: no
           plugin_wakatime: yes
           plugin_wakatime_sections: time, projects, projects-graphs, languages, languages-graphs, editors, os
           plugin_wakatime_token: ${{ secrets.WAKATIME_TOKEN }}
-          plugin_skyline: yes
-          plugin_skyline_year: 2023
-          plugin_skyline_frames: 6
-          plugin_skyline_quality: 1
+          # plugin_topics: yes
+          # plugin_topics_mode: icons
+          # plugin_topics_limit: 15
+          # plugin_skyline: yes
+          # plugin_skyline_year: 2023
+          # plugin_skyline_frames: 6
+          # plugin_skyline_quality: 1
 
       # - uses: lowlighter/metrics@latest
       #   with:
