@@ -8,9 +8,7 @@
 
 - 🧬 **PhD candidate** working on **cancer genomics** and computational biology
 - 🛠️ I build reproducible pipelines and open-source tools for analyzing high-throughput sequencing data
-- 📚 Always learning — currently digging deeper into multi-omics integration and spatial transcriptomics
-- 💬 Ask me about **NGS analysis**, **R/Python for genomics**, or **workflow engines**
-- ⚡ Fun fact: I treat plotting axes the way some people treat seasoning — there's no such thing as too much polish
+- 💬 Ask me about **Long-read sequencing analysis**, **R/Python for genomics**, or **workflow engines**
 
 ## 📫 Connect with me
 
